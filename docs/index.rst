@@ -65,6 +65,6 @@ Demikian solusi pesan WhatsApp centang 1 padahal online dengan mudah, terpenting
 
 Referensi terkait:
 
-1. WhatsApp Meta: `wameta.readthedocs.io <https://wameta.readthedocs.io/>`_ 
-2. GB WhatsApp Mod: `gbmods.readthedocs.io <https://gbmods.readthedocs.io/>`_ 
-3. `suaragoogle.readthedocs.io <https://suaragoogle.readthedocs.io/>`_ (Tutorial Suara Google)
+1. `wameta.readthedocs.io <https://wameta.readthedocs.io/>`_ 
+2. `gbmods.readthedocs.io <https://gbmods.readthedocs.io/>`_ 
+3. `suaragoogle.readthedocs.io <https://suaragoogle.readthedocs.io/>`_
