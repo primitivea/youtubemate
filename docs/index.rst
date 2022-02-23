@@ -64,6 +64,6 @@ Untuk mengatasi masalah pesan WhatsApp yang dikirim masih centang satu padahal s
 Demikian solusi pesan WhatsApp centang 1 padahal online dengan mudah, terpenting ketahui dahulu penyebabnya agar bisa menemukan solusinya sehingga bisa mengetahui kendala yang terjadi. Semoga informasinya bermanfaat.
 
 Referensi terkait:
-1. `wameta.readthedocs.io <https://wameta.readthedocs.io/>`_
-2. `gbmods.readthedocs.io <https://gbmods.readthedocs.io/>`_
-3. `suaragoogle.readthedocs.io <https://suaragoogle.readthedocs.io/>`_
+1. `wameta.readthedocs.io <https://wameta.readthedocs.io/>`_ (WhatsApp Meta)
+2. `gbmods.readthedocs.io <https://gbmods.readthedocs.io/>`_ (GB WhatsApp Mod)
+3. `suaragoogle.readthedocs.io <https://suaragoogle.readthedocs.io/>`_ (Tutorial Suara Google)
