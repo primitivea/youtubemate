@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Aplikasi WhatsApp Modifikasi, Notif Centang 1 Padahal Online
+Aplikasi WhatsApp Mod, Notifikasi Centang 1 Padahal Online
 ==================
 
 Jika sedang mencari solusi pesan WhatsApp centang 1 padahal online, maka harus diketahui faktor penyebab pesan yang dikirim masih centang satu padahal si penerima sedang tidak offline atau sedang aktif membuka WhatsApp.
