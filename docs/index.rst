@@ -15,7 +15,7 @@ Dan jika bisa terdownload-pun hanya bisa tersimpan sekitar 30 hari saja yang men
 Apa itu Y2mate
 ============
 
-Buat yang belum tahu, y2mate adalah sebuah situs downloader yang saat ini tersedia untuk konten-konten youtube. Situs resminya menggunakan alamat www.y2mate.com yang bisa anda akses menggunakan web browser modern.
+Buat yang belum tahu, y2mate adalah sebuah situs downloader yang saat ini tersedia untuk konten-konten youtube. Situs resminya menggunakan alamat www[.]y2mate[.]com yang bisa anda akses menggunakan web browser modern.
 
 Situs ini hadir untuk mengatasi persoalan pada beberapa video youtube yang tidak bisa didownload seperti konten yang mengandung musik.
 
@@ -29,7 +29,7 @@ Cara download video youtube jadi mp3 dengan y2mate
 1. Langkah pertama silahkan buka situs Youtube terlebih dahulu
 2. Cari atau temukan video yang ingin anda download
 3. Copy atau salin url dari video youtube yang ingin anda download
-4. Selanjutnya buka situs www.y2mate.com atau buka link terbaru di `Y2Mate <https://www.sebuahutas.com/2022/03/y2mate-pengunduh-video-dan-mp3-dari.html>`_ berikut ini
+4. Selanjutnya buka situs www[.]y2mate[.]com atau buka link terbaru di `Y2Mate <https://www.sebuahutas.com/2022/03/y2mate-pengunduh-video-dan-mp3-dari.html>`_ berikut ini
 5. Paste-kan link url ke bagian kolom yang sudah tersedia lalu klik tombol start
 6. Setelah itu akan muncul beberapa pilihan opsi download
 7. Pilih tab MP3 dan klik tombol download
