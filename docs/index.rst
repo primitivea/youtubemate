@@ -6,64 +6,46 @@
 Cara Buat Sound of text Melayu dengan Suara Google
 ==================
 
-Sound of text Melayu merupakan teknologi untuk mengubah teks menjadi suara dengan bahasa Melayu, hasil konversi bisa digunakan untuk dijadikan sebagai nada dering atau notifikasi WhatsApp maupun untuk kebutuhan konten tertentu.
+Cara download video youtube jadi mp3 dengan y2mate. Buat anda yang suka nonton youtube pastinya pada beberapa video bagus yang ingin anda lihat lebih dari sekali bukan? Lihat juga ulasan mengenai `MP3 Juice <https://www.sebuahutas.com/2022/03/mp3-juice-untuk-download-lagu-mp3-dari.html>`_ jika ingin mengunduh YouTube dalam format mp3 saja.
 
-Saat ini ada banyak penyedia layanan pengubah teks jadi suara atau dikenal dengan sebutan sound of text, apalagi pengguna bisa memilih berbagai jenis dan karakter suara sesuai keinginan, seperti salah satunya karakter suara Melayu.
+Aplikasi Youtube sebenarnya sudah menyediakan fitur download yang bisa anda pakai secara mudah. Namun fitur download bawaan Youtube memiliki sejumlah keterbatasan. Selain tidak bisa mendownload dalam file MP3, fitur download bawaan aplikasi youtube juga tidak selalu tersedia pada semua video.
 
-Sebenarnya ada banyak karakter suara sound of text yang bisa dipilih, mulai dari suara bahasa Jawa, Sunda, Madura, dan karakter bahasa lainnya. Banyaknya pilihan karakter suara inilah yang membuat sound of text banyak diminati pengguna.
+Dan jika bisa terdownload-pun hanya bisa tersimpan sekitar 30 hari saja yang mengharuskan pengguna untuk terhubung ke internet agar tidak terhapus otomatis. Untungnya saat ini sudah ada beberapa situs downloader youtube seperti y2mate yang akan kita bahas pada kesempatan kali ini.
 
-Apa Fungsi Sound of Text?
-====================
+Apa itu Y2mate
+============
 
-Bagi kamu yang belum pernah mencoba teknologi sound of text mungkin akan bertanya-tanya, fungsinya untuk apa sih sound of text ini? Kegunaannya sangat membantu kreator untuk membuat konten video tanpa perlu merekam suara manual.
+Buat yang belum tahu, y2mate adalah sebuah situs downloader yang saat ini tersedia untuk konten-konten youtube. Situs resminya menggunakan alamat www.y2mate.com yang bisa anda akses menggunakan web browser modern.
 
-Misalnya, kamu ingin menambahkan audio berupa suara Google dalam logat melayu, maka bisa membuat sound of text Melayu melalui situs konversi teks jadi suara tanpa perlu memasang aplikasi. Jadi, kamu cukup siapkan tulisan saja untuk diubah jadi suara.
+Situs ini hadir untuk mengatasi persoalan pada beberapa video youtube yang tidak bisa didownload seperti konten yang mengandung musik.
 
-Maka membuat suara google dengan sound of text jadi lebih praktis, apalagi bisa dijadikan nada dering WA atau WhatsApp sehingga ketika ada pesan atau panggilan masuk jadi makin keren dan unik. Lantas, bagaimana cara membuat sound of text?
+Y2mate bukan merupakan aplikasi resmi dari google atau youtube melainkan merupakan aplikasi dari pihak ketiga yang sama sekali tidak ada hubungannya dengan developer resminya.
 
-Cara Membuat Sound of Text 
-=======================
+Buat anda yang penasaran dan ingin mencobanya bisa menyimak tips tutorial berikut ini.
 
-Aplikasi peengubah teks  menjadi suara banyak digunakan salah satunya untuk membuat suara `sound of text anime <https://www.giftcard.co.id/sound-of-text-anime/>`_. Selain kartun, suara Melayu juga termasuk sound of text yang cukup populer belakangan ini. Ada beberapa cara membuat sound of text bahasa Melayu, kamu bisa membuatnya tanpa perlu memasang aplikasi terlebih dahulu, cukup kunjungi situs konversi teks jadi suara secara gratis. Untuk lebih jelasnya, simak uraian dibawah ini!
+Cara download video youtube jadi mp3 dengan y2mate
+===================
 
-1. Sound of Text Melayu melalui Voiceoftext.com
----------------------------
+1. Langkah pertama silahkan buka situs Youtube terlebih dahulu
+2. Cari atau temukan video yang ingin anda download
+3. Copy atau salin url dari video youtube yang ingin anda download
+4. Selanjutnya buka situs www.y2mate.com atau buka link terbaru di `Y2Mate <https://www.sebuahutas.com/2022/03/y2mate-pengunduh-video-dan-mp3-dari.html>`_ berikut ini
+5. Paste-kan link url ke bagian kolom yang sudah tersedia lalu klik tombol start
+6. Setelah itu akan muncul beberapa pilihan opsi download
+7. Pilih tab MP3 dan klik tombol download
+8. Proses download akan dimulai dan saat sudah selesai anda akan melihat filenya dalam format mp3
+9. Selain sudah mendukung format MP3, situs y2mate juga menyediakan format MP4 yang lengkap beserta pilihan resolusinya.
+10. Anda bisa mendownload video youtube dalam bentuk file MP4 dengan pilihan resolusi mulai dari 144p hingga 1080p.
 
-Untuk membuat sound of text bahasa Melayu untuk nada dering WhatsApp atau untuk kebutuhan konten video TikTok, maka bisa menggunakan situs konversi teks jadi suara voiceoftext.com. Adapun cara membuatnya adalah sebagai berikut:
+Keunggulan dan keuntungan menggunakan situs downloader y2mate
+========================
 
-1. Langkah pertama kunjungi halaman situs https://www.voiceoftext.com/2021/07/sound-of-text-malaysia-whatsapp.html
-2. Pada kolom Text to Speech, masukan tulisan bahasa melayu yang diinginkan
-3. Setelah itu, klik tombol Convert to Voice. Maka tulisan yang kamu masukkan akan dikonversi jadi suara dalam format MP3
-4. Untuk mengunduh konversi teks jadi suara, klik icon download berwarna biru
-5. .Klik icon Play, untuk mendengarkan suara
-6. Klik icon tiga titik, pilih Download untuk menyimpan hasil suara di memori penyimpanan hp atau laptop
-7. Selesai
+Situs y2mate.com bisa anda gunakan secara gratis tanpa perlu berlangganan bulanan sama sekali. Dan bagusnya lagi tidak ada batasan download sama sekali. Jadi saat menemukan konten video bagus di Youtube anda bisa langsung menggunakan situs y2mate ini untuk melakukan download file MP3 maupun MP4.
 
-Melalui situs sound of text Melayu ini hasil suara terdengar sangat jelas dan jernih. Setelah file suara tersimpan di memori, maka kami sudah bisa membenarkannya untuk dipasang sebagai nada dering WhatsApp atau membuat video Tiktok  
+Adapun kualitas server dari situs download y2mate ini juga terbilang bagus. Jadi anda bisa menggunakan kapan saja 24 jam sehari non stop. Keunggulan juga terlihat saat anda sudah mengklik tombol start, akan muncul pilihan tipe file beserta ukuran filenya yang bisa anda lihat.
 
-2. Sound of Text Melayu melalui Play.ht
---------------------------
+Dengan demikian informasi ukuran file ini bisa memberitahu para penggunanya untuk mengkira-kira terutama untuk pengguna limit kuota internet atau storage yang sudah hampir penuh. Dan sebagai platform gratisan maka sudah sangat umum sekali saat anda menggunakan situs y2mate ini akan muncul beberapa pop up iklan.
 
-Adalun alternatif untuk membuat sound of text bahasa Melayu bisa menggunakan situs Play.ht. Dengan begitu, kamu bisa membuat teks jadi suara yang diinginkan tanpa perlu repot install aplikasi tambahan. Berikut cara membuatnya.
+Bukan suatu hal besar tentunya mengingat ini adalah layanan gratisan dan juga jumlah iklannya sama sekali tidak banyak. Layanan situs downloader youtube ini bisa anda akses baik melalui komputer PC desktop laptop maupun pengguna smartphone dan tablet.
 
-1. Terlebih dahulu kunjungi situs sound of text https://play.ht/text-to-speech-voices/malaysian-malay/
-2. Kemudian pilih bahasa Malay, pilih karakter suara Yasmin, dan pilih Regular
-3. Setelah itu, masukkan teks pada kolom yang tersedia sesuai dengan keinginan
-4. Klik Listen, untuk mendengarkan hasil konversi suara
-
-Namun sayangnya, untuk download hasil konversi teks jadi suara melalui situs ini, kamu harus terlebih dahulu melakukan registrasi atau login dengan klik tombol Get Started for Free, agar bisa mengunduh file sound of text yang dibuat.
-
-Kelebihan Situs Sound of Text Melayu
-==============================
-
-Ada beberapa kelebihan membuat suara atau audio melalui situs konversi teks jadi suara, hal ini tentunya akan sangat membantu bagi kalian yang ingin membuat nada dering WA atau audio untuk keperluan konten TikTok dan sebagainya. 
-
-- Mudah digunakan oleh siapa saja termasuk pemula
-- Proses konversi teks jadi suara cepat dan praktis
-- Hasil suara berupa format audio MP3
-- Gratis digunakan tanpa perlu bayar apapun
-- Situs terjamin keamanannya
-
-Nah, itulah pembahasan tentang cara membuat sound of text Melayu melalui situs pembuat tanpa perlu memasang aplikasi tambahan. Sebenarnya, kamu juga bisa melakukannya menggunakan aplikasi yang ada dalam daftar 3 APK suara Google berikut ini: https://www.dmo.or.id/3-apk-suara-google-terbaik-untuk-wa/
-
-Kini membuat surat untuk konten video jadi lebih mudah dan praktis tanpa harus merekam manual. Yuk, coba sekarang!
+Yang anda butuhkan hanyalah sebuah web browser yang sudah terinstall pada sistem operasi dengan versi paling update agar fitur-fiturnya bisa berjalan dengan lancar.
