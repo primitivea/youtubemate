@@ -40,4 +40,4 @@ License
 
 The project is licensed under the BSD license. Mengulas beragam jenis Whatsmod yang dapat diunduh secara gratis dan powerful dengan beragam fitur menarik dari versi originalnya.
 
-- https://www.dmo.or.id - Informasi Teknologi dan Aplikasi Official #1 Indonesia
+- https://techidn.github.io/ - #1 Tech Portal in Indonesia
