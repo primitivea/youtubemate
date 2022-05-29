@@ -40,7 +40,7 @@ Cara download video youtube jadi mp3 dengan y2mate
 Keunggulan dan keuntungan menggunakan situs downloader y2mate
 ========================
 
-Situs `Y2mate <https://www.autobild.co.id/2022/05/download-video-youtube-jadi-mp3-di-hp.html>`_ bisa anda gunakan secara gratis tanpa perlu berlangganan bulanan sama sekali. Dan bagusnya lagi tidak ada batasan download sama sekali. Jadi saat menemukan konten video bagus di Youtube anda bisa langsung menggunakan situs y2mate ini untuk melakukan download file MP3 maupun MP4.
+Situs Y2mate.com bisa anda gunakan secara gratis tanpa perlu berlangganan bulanan sama sekali. Dan bagusnya lagi tidak ada batasan download sama sekali. Jadi saat menemukan konten video bagus di Youtube anda bisa langsung menggunakan situs y2mate ini untuk melakukan download file MP3 maupun MP4.
 
 Adapun kualitas server dari situs download y2mate ini juga terbilang bagus. Jadi anda bisa menggunakan kapan saja 24 jam sehari non stop. Keunggulan juga terlihat saat anda sudah mengklik tombol start, akan muncul pilihan tipe file beserta ukuran filenya yang bisa anda lihat.
 
@@ -49,3 +49,7 @@ Dengan demikian informasi ukuran file ini bisa memberitahu para penggunanya untu
 Bukan suatu hal besar tentunya mengingat ini adalah layanan gratisan dan juga jumlah iklannya sama sekali tidak banyak. Layanan situs downloader youtube ini bisa anda akses baik melalui komputer PC desktop laptop maupun pengguna smartphone dan tablet.
 
 Yang anda butuhkan hanyalah sebuah web browser yang sudah terinstall pada sistem operasi dengan versi paling update agar fitur-fiturnya bisa berjalan dengan lancar.
+
+**Referensi:**
+
+- https://www.autobild.co.id/2022/05/download-video-youtube-jadi-mp3-di-hp.html
